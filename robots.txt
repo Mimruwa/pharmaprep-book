@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mimruwa.github.io/pharmaprep-book/sitemap.xml

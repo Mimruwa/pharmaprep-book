@@ -88,6 +88,8 @@
 
   /* ------------------------------
      Smooth Anchor Scrolling
+     Only works for same-page # links.
+     External links like Payhip are not blocked.
   ------------------------------ */
   const internalLinks = document.querySelectorAll('a[href^="#"]');
 
@@ -192,19 +194,4 @@
       });
     });
   });
-
-  /* ------------------------------
-     Coming Soon Buy Button Notice
-  ------------------------------ */
-  const buyButton = document.querySelector("#buy .btn-primary");
-
-  if (buyButton) {
-    buyButton.addEventListener("click", function (event) {
-      event.preventDefault();
-
-      alert(
-        "The full PharmaPrep eBook purchase link is coming soon. For now, you can download the free sample PDF."
-      );
-    });
-  }
 })();

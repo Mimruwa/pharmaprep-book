@@ -1,33 +1,47 @@
 # PharmaPrep: Pharmacology Exam Guide
 
-A professional digital publishing website for **PharmaPrep: Pharmacology Exam Guide**, a premium pharmacology exam preparation eBook created for pharmacy students, pharmacists, and healthcare learners.
+**PharmaPrep** is a professional digital publishing project built around *PharmaPrep: Pharmacology Exam Guide*, a pharmacology exam preparation eBook created for pharmacy students, pharmacists, and healthcare learners.
 
-This website is designed as the official landing page for the PharmaPrep eBook, including book information, preview images, a free sample PDF download, contact information, privacy policy, and terms.
+The project includes a live product website, free sample PDF download, Payhip checkout integration, eBook preview assets, legal policy pages, and a clean medical-themed visual identity.
+
+---
+
+## Live Project
+
+Official website:
+https://mimruwa.github.io/pharmaprep-book/
+
+Product page:
+https://payhip.com/b/8UueI
+
+Portfolio:
+https://mimruwa.github.io/maruwa-portfolio/
 
 ---
 
 ## Project Overview
 
-**Project Name:** PharmaPrep
-**Book Title:** PharmaPrep: Pharmacology Exam Guide
-**Product Type:** Digital PDF eBook
+**Project name:** PharmaPrep
+**Book title:** PharmaPrep: Pharmacology Exam Guide
+**Product type:** Digital pharmacology exam preparation eBook
+**Format:** PDF eBook
 **Audience:** Pharmacy students, pharmacists, and healthcare learners
-**Website Type:** Static GitHub Pages website
-**Status:** Website in development, payment integration coming later
+**Website type:** Static product website hosted on GitHub Pages
+**Creator display name:** MARUWA MARUWA
 
 ---
 
 ## Website Pages
 
-The website includes the following pages:
+The website includes:
 
-* `index.html` — Main homepage
+* `index.html` — Main landing page
 * `book.html` — Book details page
 * `sample.html` — Free sample download page
 * `contact.html` — Contact page
 * `privacy.html` — Privacy Policy
 * `terms.html` — Terms and Conditions
-* `404.html` — Custom page not found page
+* `404.html` — Custom not found page
 
 ---
 
@@ -67,91 +81,45 @@ pharmaprep-book/
 
 ## Features
 
-* Premium publisher-style landing page
-* Professional navy, white, and gold branding
-* Responsive design for desktop, tablet, and mobile
-* Smooth scrolling and scroll reveal animations
-* Mobile navigation menu
+* Professional eBook landing page
+* Navy blue, white, and gold medical branding
+* Responsive layout for desktop, tablet, and mobile
 * Free sample PDF download
-* Placeholder Buy Now section for future payment integration
-* SEO-ready metadata
-* OpenGraph and Twitter card support
-* Structured data for search engines
-* Custom Privacy Policy page
-* Custom Terms and Conditions page
+* Payhip checkout integration
+* Book details and preview sections
+* Contact page
+* Privacy Policy page
+* Terms and Conditions page
 * Custom 404 page
+* SEO-ready metadata
+* OpenGraph and social sharing metadata
+* Structured data for search engines
+* Mobile navigation
+* Smooth scrolling and page interactions
 
 ---
 
-## Current Product Status
+## About the eBook
 
-The website currently offers:
+*PharmaPrep: Pharmacology Exam Guide* is designed as a structured pharmacology revision resource for pharmacy students, pharmacists, and healthcare learners.
 
-* Book information
-* Preview images
-* Free sample PDF download
-* Contact email
-* Professional creator profile
-* Placeholder purchase button
-
-The full eBook payment system is not connected yet.
-
-Future payment integration may use:
-
-* Payhip
-* Gumroad
-* Another trusted digital product platform
+The eBook supports organized study, academic exam preparation, and independent revision. It is intended as an educational learning resource and not as a clinical or medical decision-making tool.
 
 ---
 
 ## Creator Information
 
-**Display Name:** MARUWA MARUWA
-**Role:** Independent Educational Content Creator
+**Display name:** MARUWA MARUWA
+**Role:** Licensed Pharmacist and Independent Educational Content Creator
 **Email:** [maruwahmunshi@gmail.com](mailto:maruwahmunshi@gmail.com)
-**Portfolio:** https://mimruwa.github.io/maruwa-portfolio/
 
 ---
 
 ## Important Disclaimer
 
-PharmaPrep is an educational study and exam revision resource.
+PharmaPrep is for educational study and exam revision only.
 
-It is not medical advice, diagnosis advice, treatment advice, clinical guidance, or a replacement for official textbooks, professional instruction, institutional materials, or qualified healthcare guidance.
-
----
-
-## Local Testing
-
-To test the website locally:
-
-1. Open the `pharmaprep-book` folder.
-2. Double-click `index.html`.
-3. The website should open in your browser.
-4. Test all navigation links, images, buttons, and the free sample PDF download.
-
----
-
-## GitHub Pages Deployment
-
-After uploading this project to GitHub:
-
-1. Open the GitHub repository.
-2. Go to **Settings**.
-3. Open **Pages**.
-4. Under **Build and deployment**, choose:
-
-   * Source: `Deploy from a branch`
-   * Branch: `main`
-   * Folder: `/root`
-5. Save the settings.
-6. GitHub will generate the website link.
-
-Expected website format:
-
-```text
-https://mimruwa.github.io/pharmaprep-book/
-```
+It is not medical advice, diagnosis advice, treatment guidance, clinical guidance, or a replacement for official textbooks, institutional materials, clinical guidelines, professional instruction, or qualified healthcare consultation.
 
 ---
 
@@ -159,14 +127,14 @@ https://mimruwa.github.io/pharmaprep-book/
 
 This project is part of the PharmaPrep digital publishing business.
 
-Website files, branding, promotional images, written page content, sample PDF, and related assets should not be copied, resold, reuploaded, or misrepresented as another product.
+Website files, branding, promotional images, written page content, PDF files, and related assets should not be copied, resold, reuploaded, or misrepresented as another product.
 
-Visitors may use the public website and free sample PDF for personal educational preview and study evaluation.
+Visitors may use the public website and free sample PDF for personal educational preview and study evaluation only.
 
 ---
 
 ## Contact
 
-For questions about PharmaPrep, the sample PDF, future purchase availability, or website issues, contact:
+For questions about PharmaPrep, the eBook, the sample PDF, or website issues, contact:
 
-**[maruwahmunshi@gmail.com](mailto:maruwahmunshi@gmail.com)**
+[maruwahmunshi@gmail.com](mailto:maruwahmunshi@gmail.com)
